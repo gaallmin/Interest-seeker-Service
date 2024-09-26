@@ -2,3 +2,5 @@ pandas
 sqlalchemy
 scikit-learn
 matplotlib
+Flask==2.2.5
+gunicorn==20.1.0

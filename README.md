@@ -21,6 +21,11 @@ ability.
 : to be able to understand itself and to track itself in a better enviornment
 - Recommendation System
 
+==>Trobule: how to measure the interest
+initial step: first let the user to select the top 3 interest, match it with vocation
+
+second: make the questionaries based on ml, ai
+
 ### 2. Community
 - exchanging interest and impression + material
 
